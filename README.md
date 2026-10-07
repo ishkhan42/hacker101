@@ -1,4 +1,4 @@
-# theWorks — Hacker101 Challenge Workspace
+# hacker101 — HackerOne 101 challenge workspace
 
 Practice playground for red-team skill building against [HackerOne 101](https://hacker101.com) practice labs and `*.h1x.com` CTF targets.
 
