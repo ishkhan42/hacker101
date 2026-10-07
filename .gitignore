@@ -1,0 +1,7 @@
+# never commit live session material from lab targets
+cookies*.txt
+*.cookie
+sessions/
+burp-project.*
+*.har
+.env
